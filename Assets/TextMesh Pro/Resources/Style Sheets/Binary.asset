@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+  m_Name: Binary
+  m_EditorClassIdentifier: 
+  m_StyleList:
+  - m_Name: Normal
+    m_HashCode: -1183493901
+    m_OpeningDefinition: 
+    m_ClosingDefinition: 
+    m_OpeningTagArray: 
+    m_ClosingTagArray: 
+    m_OpeningTagUnicodeArray: 
+    m_ClosingTagUnicodeArray: 
+  - m_Name: Header
+    m_HashCode: -1544996001
+    m_OpeningDefinition: <size=64px>
+    m_ClosingDefinition: </size>
+    m_OpeningTagArray: 3c00000073000000690000007a000000650000003d000000360000003400000070000000780000003e000000
+    m_ClosingTagArray: 3c0000002f00000073000000690000007a000000650000003e000000
+    m_OpeningTagUnicodeArray: 3c00000073000000690000007a000000650000003d000000360000003400000070000000780000003e000000
+    m_ClosingTagUnicodeArray: 3c0000002f00000073000000690000007a000000650000003e000000
+  - m_Name: Subtext
+    m_HashCode: 1885299385
+    m_OpeningDefinition: <size=32px>
+    m_ClosingDefinition: </size>
+    m_OpeningTagArray: 3c00000073000000690000007a000000650000003d000000330000003200000070000000780000003e000000
+    m_ClosingTagArray: 3c0000002f00000073000000690000007a000000650000003e000000
+    m_OpeningTagUnicodeArray: 3c00000073000000690000007a000000650000003d000000320000003800000070000000780000003e000000
+    m_ClosingTagUnicodeArray: 3c0000002f00000073000000690000007a000000650000003e000000
+  - m_Name: MainNum
+    m_HashCode: -1814836067
+    m_OpeningDefinition: <size=128px>
+    m_ClosingDefinition: </size>
+    m_OpeningTagArray: 3c00000073000000690000007a000000650000003d00000031000000320000003800000070000000780000003e000000
+    m_ClosingTagArray: 3c0000002f00000073000000690000007a000000650000003e000000
+    m_OpeningTagUnicodeArray: 3c00000073000000690000007a000000650000003d00000031000000320000003800000070000000780000003e000000
+    m_ClosingTagUnicodeArray: 3c0000002f00000073000000690000007a000000650000003e000000
+  - m_Name: Copy
+    m_HashCode: 2485733
+    m_OpeningDefinition: <size=40px>
+    m_ClosingDefinition: </size>
+    m_OpeningTagArray: 3c00000073000000690000007a000000650000003d000000340000003000000070000000780000003e000000
+    m_ClosingTagArray: 3c0000002f00000073000000690000007a000000650000003e000000
+    m_OpeningTagUnicodeArray: 3c00000073000000690000007a000000650000003d000000340000003000000070000000780000003e000000
+    m_ClosingTagUnicodeArray: 3c0000002f00000073000000690000007a000000650000003e000000
