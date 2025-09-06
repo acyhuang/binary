@@ -2,6 +2,8 @@
 
 a single-player iOS game for converting base-10 numbers to binary ([Itch](https://acyhuang.itch.io/acad415-final-binary))
 
+made by [allison huang](https://github.com/acyhuang) and [rory an](https://github.com/roryvision)
+
 ![Intro](deck/1-Intro.png)
 ![Value](deck/2-Value.png)
 ![Market research](deck/3-MarketResearch.png)
